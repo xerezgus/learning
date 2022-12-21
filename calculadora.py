@@ -1,4 +1,4 @@
-operador = input("Você deseja somar(+), subtrair(-), multiplicar(*) ou dividir(/)? Digite o sinal algébrico!")
+operador = input("Você deseja somar(+), subtrair(-), multiplicar(*) ou dividir(/)?")
 
 if operador == "+":
     x = input("Certo, então digite um número: ")
